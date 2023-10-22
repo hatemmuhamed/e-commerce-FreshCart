@@ -1,10 +1,10 @@
-#### my first e-Commerce project [FreshCart] which is built using RestAPI's & React.js 
+### my first e-Commerce project [FreshCart] which is built using RestAPI's & React.js 
 
 It allows you to create an account, log in to it, and then add your needed & desired products to your cart or save them in your Wishlist for a future purchase.
 Wondering if you can use your preferred payment method? I have counted everything, so you can choose to pay either in cash or online.
 
 
-#### Features & Tools:
+### Features & Tools:
 
 
 
